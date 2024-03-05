@@ -1,6 +1,10 @@
-### Hi there 👋
-<h1>Hi👋, i'm Pedro</h1>
-<h2>Im a passionate DevOps SRE Software Engineer</h2>
+![](https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+# Hi👋🏻, i'm Pedro Roman
+### A passionate DevOps & Software Engineer from Paraguay
+
+#### About me:
+I'm a self-taught and analytic person with more than 15 years experience in tech.
+Welcome to my repo!
 
 <!--
 **pedroanibalroman/pedroanibalroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
