@@ -1,5 +1,5 @@
 ![](https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-# Hi👋🏻, i'm Pedro Roman
+# Hi👋🏻, i'm Pedro Román
 ### A passionate DevOps & Software Engineer from Paraguay
 
 #### About me:
