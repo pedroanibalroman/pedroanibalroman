@@ -1,5 +1,7 @@
 ### Hi there 👋
-<h1>Hi, i'm Pedro, im from Paraguay</h1>
+<h1>Hi👋, i'm Pedro</h1>
+<h2>Im a passionate DevOps SRE Software Engineer</h2>
+
 <!--
 **pedroanibalroman/pedroanibalroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
